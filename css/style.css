@@ -102,6 +102,10 @@ hr {
   }
 }
 
+.contacts .contact-item {
+  padding: 0.5rem;
+}
+
 .contacts .social-icon {
   color: #fff;
   margin: 0.5rem;
